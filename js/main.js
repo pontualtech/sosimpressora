@@ -129,49 +129,43 @@
     const form = $('#contact-form');
     if (!form) return;
 
+    // Check if redirected back after successful Formsubmit submission
+    if (window.location.search.includes('enviado=1')) {
+      const successMsg = $('#form-success');
+      if (successMsg) {
+        successMsg.textContent = 'Mensagem enviada com sucesso! Entraremos em contato em até 30 minutos.';
+        successMsg.classList.add('visible');
+        successMsg.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    }
+
+    // Validate required fields before allowing natural form submission to Formsubmit.co
     form.addEventListener('submit', function (e) {
-      e.preventDefault();
+      const requiredFields = form.querySelectorAll('[required]');
+      let valid = true;
+
+      requiredFields.forEach(field => {
+        if (!field.value.trim()) {
+          valid = false;
+          field.classList.add('input-error');
+        } else {
+          field.classList.remove('input-error');
+        }
+      });
+
+      if (!valid) {
+        e.preventDefault();
+        const firstError = form.querySelector('.input-error');
+        if (firstError) firstError.focus();
+        return;
+      }
 
       const submitBtn = $('[type="submit"]', form);
-      const successMsg = $('#form-success');
-      const originalText = submitBtn.textContent;
-
-      submitBtn.disabled = true;
-      submitBtn.textContent = 'Enviando...';
-
-      // Build WhatsApp message from form fields
-      const nome = form.querySelector('[name="nome"]')?.value || '';
-      const telefone = form.querySelector('[name="telefone"]')?.value || '';
-      const email = form.querySelector('[name="email"]')?.value || '';
-      const modelo = form.querySelector('[name="modelo"]')?.value || '';
-      const problema = form.querySelector('[name="problema"]')?.value || '';
-
-      const msg = [
-        '📋 *Nova solicitação de orçamento*',
-        '',
-        `👤 *Nome:* ${nome}`,
-        `📱 *Telefone:* ${telefone}`,
-        `📧 *E-mail:* ${email}`,
-        `🖨️ *Impressora:* ${modelo}`,
-        `🔧 *Problema:* ${problema}`,
-      ].join('\n');
-
-      const waUrl = 'https://wa.me/5511965760126?text=' + encodeURIComponent(msg);
-
-      setTimeout(() => {
-        submitBtn.disabled = false;
-        submitBtn.textContent = originalText;
-
-        if (successMsg) {
-          successMsg.classList.add('visible');
-          successMsg.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-        }
-
-        // Open WhatsApp in new tab
-        window.open(waUrl, '_blank', 'noopener,noreferrer');
-
-        form.reset();
-      }, 800);
+      if (submitBtn) {
+        submitBtn.disabled = true;
+        submitBtn.textContent = 'Enviando...';
+      }
+      // Allow form to submit naturally to Formsubmit.co
     });
   }
 
