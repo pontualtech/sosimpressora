@@ -9,7 +9,7 @@
 Impressora parou? Resolvemos hoje.
 
 **Subheadline:**
-Manutenção especializada de impressoras em toda a Grande São Paulo. Orçamento grátis em 30 minutos pelo WhatsApp.
+Manutenção especializada de impressoras em toda a Grande São Paulo. Orçamento em até 4h após o equipamento no laboratório.
 
 **CTA Hero:**
 [Pedir Orçamento Grátis](https://wa.me/5511965760126?text=Olá!%20Preciso%20de%20um%20orçamento%20para%20manutenção%20de%20impressora.)
@@ -171,7 +171,7 @@ HP, Canon, Epson, Brother, Samsung, Zebra, Lexmark e outras. Tanto impressoras j
 Sim. Todos os nossos serviços têm garantia de 90 dias. Se o mesmo problema voltar nesse período, resolvemos sem custo adicional.
 
 **Q: Como faço para pedir um orçamento?**
-Pelo [WhatsApp](https://wa.me/5511965760126) — é a forma mais rápida. Descreva o problema e respondemos em até 30 minutos no horário comercial. Você também pode usar o formulário na página de contato.
+Pelo [WhatsApp](https://wa.me/5511965760126) — é a forma mais rápida. Descreva o problema e respondemos pelo WhatsApp no horário comercial. Você também pode usar o formulário na página de contato.
 
 ---
 
@@ -256,7 +256,7 @@ Pelo [WhatsApp](https://wa.me/5511965760126) — é a forma mais rápida. Descre
       "name": "Como faço para pedir um orçamento?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pelo WhatsApp — é a forma mais rápida. Descreva o problema e respondemos em até 30 minutos no horário comercial."
+        "text": "Pelo WhatsApp — é a forma mais rápida. Descreva o problema e respondemos pelo WhatsApp no horário comercial."
       }
     }
   ]

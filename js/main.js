@@ -133,7 +133,7 @@
     if (window.location.search.includes('enviado=1')) {
       const successMsg = $('#form-success');
       if (successMsg) {
-        successMsg.textContent = 'Mensagem enviada com sucesso! Entraremos em contato em até 30 minutos.';
+        successMsg.textContent = 'Mensagem enviada com sucesso! Entraremos em contato rapidamenteutos.';
         successMsg.classList.add('visible');
         successMsg.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
       }

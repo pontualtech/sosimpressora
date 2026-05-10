@@ -35,7 +35,7 @@ Todos os títulos estão dentro do limite de 60 caracteres. Nenhuma ação corre
 | index.html | Manutenção de impressoras em São Paulo. Atendimento em 24h, orçamento grátis pelo WhatsApp. HP, Canon, Epson, Brother. | 116 | APROVADO |
 | servicos.html | Conserto, manutenção preventiva e atendimento em domicílio para impressoras em São Paulo. Garantia de 90 dias. | 110 | APROVADO |
 | sobre.html | Mais de 5.000 impressoras consertadas em São Paulo. Conheça a história, os diferenciais e as áreas de atendimento da SOS Impressora. | 132 | APROVADO |
-| contato.html | Fale com a SOS Impressora pelo WhatsApp ou formulário. Seg-Sex 8h-18h, Sáb 8h-13h. Orçamento grátis em 30 minutos. | 113 | APROVADO |
+| contato.html | Fale com a SOS Impressora pelo WhatsApp ou formulário. Seg-Sex 8h-18h, Sáb 8h-13h. Orçamento em até 4h após o equipamento no laboratório. | 113 | APROVADO |
 
 Todas dentro de 155 caracteres. Nenhuma ação corretiva necessária.
 
@@ -217,7 +217,7 @@ Sitemap: https://sosimpressora.com.br/sitemap.xml
 
 **Descricao do negócio (750 chars máx — usar este texto):**
 ```
-SOS Impressora é especialista em conserto e manutenção de impressoras na Grande São Paulo. Atendemos HP, Canon, Epson, Brother, Samsung, Xerox e outras marcas. Orçamento grátis em 30 minutos pelo WhatsApp. Nosso técnico vai até você — sem taxa de deslocamento para o diagnóstico. Mais de 5.000 impressoras consertadas. Garantia de 90 dias em peças e mão de obra. Atendimento para empresas e residências em toda a Grande SP.
+SOS Impressora é especialista em conserto e manutenção de impressoras na Grande São Paulo. Atendemos HP, Canon, Epson, Brother, Samsung, Xerox e outras marcas. Orçamento em até 4h após o equipamento no laboratório. Nosso técnico vai até você — sem taxa de deslocamento para o diagnóstico. Mais de 5.000 impressoras consertadas. Garantia de 90 dias em peças e mão de obra. Atendimento para empresas e residências em toda a Grande SP.
 ```
 
 ### 2.2 Área de Atendimento (se negócio domiciliar)
@@ -259,7 +259,7 @@ Adicionar estes serviços em "Produtos e Serviços":
 Publicar estas perguntas (via conta Google do negócio) e respondê-las:
 
 **P1:** Vocês fazem orçamento grátis?
-**R:** Sim! O diagnóstico e orçamento são 100% gratuitos. Respondemos em até 30 minutos pelo WhatsApp: (11) 96576-0126.
+**R:** Sim! O diagnóstico e orçamento são 100% gratuitos. Respondemos pelo WhatsApp: (11) 96576-0126.
 
 **P2:** Atendem no meu bairro em São Paulo?
 **R:** Atendemos toda a Grande São Paulo — SP capital e ABC, Guarulhos, Osasco, Barueri e região. Entre em contato para confirmar sua área.
@@ -493,7 +493,7 @@ curso
 | Description 1 | Diagnóstico grátis para impressoras HP, Epson, Canon e Brother. Técnico em domicílio em toda a Grande São Paulo. Garantia de 90 dias. Ligue agora. |
 | Description 2 | Não espere sua impressora pifar de vez. Orçamento pelo WhatsApp em até 30 min. Atendimento Seg-Sex 8h-18h e Sáb 8h-13h. |
 | Description 3 | Conserto profissional com garantia. Mais de 5.000 impressoras recuperadas em SP. Peças originais. Sem taxa de diagnóstico. Fale conosco agora. |
-| Description 4 | Assistência técnica especializada em impressoras em São Paulo. Orçamento grátis. Técnico vai até você. Resposta em 30 minutos pelo WhatsApp. |
+| Description 4 | Assistência técnica especializada em impressoras em São Paulo. Orçamento grátis. Técnico vai até você. Resposta pelo WhatsApp. |
 | URL Final | https://sosimpressora.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=search-conserto&utm_content=rsa1 |
 
 **RSA 2 — Marca/Modelo específico (HP)**
