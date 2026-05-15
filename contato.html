@@ -30,7 +30,7 @@
   <!-- Preconnect & DNS prefetch -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="dns-prefetch" href="https://formsubmit.co" />
+  <link rel="dns-prefetch" href="https://wa.me" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
 
   <style>
@@ -186,11 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2 class="form-title">Enviar mensagem</h2>
             <p class="form-subtitle">Preencha o formulário e entraremos em contato pelo WhatsApp com seu orçamento.</p>
 
-            <form id="contact-form" action="https://formsubmit.co/contato@pontualtech.com.br" method="POST" novalidate>
-              <input type="hidden" name="_subject" value="Novo contato - SOS Impressora">
-              <input type="hidden" name="_next" value="https://sosimpressora.com/contato.html?enviado=1">
-              <input type="hidden" name="_captcha" value="false">
-              <input type="hidden" name="_template" value="table">
+            <form id="contact-form" action="#" method="POST" novalidate onsubmit="return enviarFormWhatsApp(event)">
               <div class="form-grid">
 
                 <div class="form-grid form-grid-2" style="display: grid; gap: 1rem">
@@ -445,5 +441,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 
   <script src="js/main.js" defer></script>
+  <script>
+    // Form contato → WhatsApp direto (substitui formsubmit.co, fora do ar 15/05/2026)
+    // Constrói mensagem com dados do form e abre wa.me com texto pré-preenchido.
+    function enviarFormWhatsApp(ev){
+      ev.preventDefault();
+      var f=ev.target;
+      function v(n){var el=f.querySelector('[name="'+n+'"]');return el?el.value.trim():'';}
+      var nome=v('nome'), tel=v('telefone'), email=v('email'), modelo=v('modelo'), servico=v('servico'), problema=v('problema');
+      if(!nome||!tel||!modelo||!problema){alert('Preencha todos os campos obrigatórios.');return false;}
+      var labels={'conserto-geral':'Conserto Geral','conserto-epson':'Conserto Epson','manutencao-preventiva':'Manutenção Preventiva','atendimento-domicilio':'Atendimento em Domicílio','outro':'Outro'};
+      var msg='Olá! Solicitação pelo site sosimpressora.com:\n\n';
+      msg+='Nome: '+nome+'\n';
+      msg+='Telefone: '+tel+'\n';
+      if(email) msg+='E-mail: '+email+'\n';
+      msg+='Marca/Modelo: '+modelo+'\n';
+      if(servico) msg+='Tipo de serviço: '+(labels[servico]||servico)+'\n';
+      msg+='\nProblema: '+problema;
+      var fb=document.getElementById('form-success');
+      if(fb){fb.style.display='block';}
+      // GA4/Ads event
+      try{if(typeof gtag==='function'){gtag('event','generate_lead',{event_category:'contato_form_wa',value:1,currency:'BRL'});}}catch(e){}
+      window.open('https://wa.me/551131360415?text='+encodeURIComponent(msg),'_blank');
+      return false;
+    }
+  </script>
 </body>
 </html>
