@@ -94,11 +94,16 @@
       "@type": "AdministrativeArea",
       "name": "Grande São Paulo"
     },
-    "serviceType": ["Conserto de Impressoras","Manutenção Preventiva de Impressoras","Atendimento em Domicílio para Impressoras","Conserto de Notebook","Troca de tela de Notebook","Troca de bateria de Notebook","Formatação Windows","Upgrade SSD e RAM","Recuperação de Dados de Notebook","Limpeza Interna e Pasta Térmica","Manutenção Corporativa de Frota de Impressoras"],
+    "serviceType": [
+      "Conserto de impressora HP","Conserto de impressora Brother","Conserto de impressora Epson","Conserto de impressora Canon","Conserto de impressora Lexmark","Conserto de impressora Xerox","Conserto de impressora Samsung","Conserto de impressora Ricoh","Conserto de plotter HP","Conserto de plotter Epson","Conserto de impressora térmica","Conserto de impressora Zebra","Conserto de impressora wireless","Conserto de impressora a jato de tinta e laser","Conserto de impressora multifuncional","Conserto de scanner","Conserto de mainboard de impressora","Conserto de display de impressora","Configuração de impressora em rede","Configuração de Wi-Fi","Atualização de firmware de impressora","Manutenção preventiva","Limpeza de cabeça de impressão","Troca de fusor","Troca de cilindro","Recarga de cartucho","Recarga de toner","Atendimento empresarial","Atendimento em domicílio","Diagnóstico gratuito","Garantia de 90 dias","Contrato de manutenção","Leva-e-traz gratuito de impressora em SP","Atendimento em domicílio para impressora","Manutenção corporativa de frota de impressoras","Contrato de manutenção preventiva empresarial","Conserto de notebook","Conserto de notebook Dell","Conserto de notebook Lenovo","Conserto de notebook HP","Conserto de notebook Acer","Conserto de notebook ASUS","Conserto de notebook Apple MacBook","Conserto de notebook Samsung","Conserto de notebook Positivo","Conserto de laptop","Troca de tela de notebook","Troca de bateria de notebook","Troca de teclado de notebook","Formatação Windows","Upgrade SSD e memória RAM","Limpeza interna e pasta térmica","Recuperação de dados","Remoção de vírus e malware","Atualizações de computador","Reparo e manutenção","Suporte e serviços para computadores","Tablets","Assistência para aparelhos da Dell","Assistência para produtos Acer","Serviço de conserto de aparelhos HP","Serviço de conserto de aparelhos Positivo"
+    ],
+    "brand": [
+      {"@type":"Brand","name":"HP"},{"@type":"Brand","name":"Brother"},{"@type":"Brand","name":"Epson"},{"@type":"Brand","name":"Canon"},{"@type":"Brand","name":"Lexmark"},{"@type":"Brand","name":"Xerox"},{"@type":"Brand","name":"Samsung"},{"@type":"Brand","name":"Ricoh"},{"@type":"Brand","name":"Zebra"},{"@type":"Brand","name":"Dell"},{"@type":"Brand","name":"Lenovo"},{"@type":"Brand","name":"Acer"},{"@type":"Brand","name":"ASUS"},{"@type":"Brand","name":"Apple"},{"@type":"Brand","name":"Positivo"}
+    ],
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.1",
-      "reviewCount": "468",
+      "reviewCount": "474",
       "bestRating": "5",
       "worstRating": "1"
     },
@@ -106,7 +111,9 @@
     "foundingDate": "1992-07",
     "sameAs": [
       "https://www.facebook.com/pontualtechsp",
-      "https://www.pontualtech.com.br"
+      "https://www.instagram.com/pontualtech",
+      "https://www.pontualtech.com.br",
+      "https://maps.app.goo.gl/?q=Pontual+Tech+Assist%C3%AAncia+T%C3%A9cnica+Vila+Mariana"
     ]
   }
   </script>
@@ -117,16 +124,33 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "SOS Impressora",
+    "alternateName": "PontualTech Assistência Técnica",
     "url": "https://sosimpressora.com",
     "logo": "https://sosimpressora.com/img/logo.png",
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+55-11-3136-0415",
-      "contactType": "customer service",
-      "areaServed": "BR",
-      "availableLanguage": "Portuguese"
-    },
-    "sameAs": []
+    "email": "contato@pontualtech.com.br",
+    "foundingDate": "1992-07",
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+55-11-3136-0415",
+        "contactType": "customer service",
+        "areaServed": "BR",
+        "availableLanguage": ["Portuguese","English"]
+      },
+      {
+        "@type": "ContactPoint",
+        "telephone": "+55-11-96576-0126",
+        "contactType": "sales",
+        "contactOption": "TollFree",
+        "areaServed": "BR",
+        "availableLanguage": "Portuguese"
+      }
+    ],
+    "sameAs": [
+      "https://www.facebook.com/pontualtechsp",
+      "https://www.instagram.com/pontualtech",
+      "https://www.pontualtech.com.br"
+    ]
   }
   </script>
 
@@ -204,7 +228,31 @@
         "name": "Vocês também consertam notebook?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Sim. Atendemos manutenção de notebooks de várias marcas (Dell, Lenovo, HP, Acer, ASUS, Apple, Samsung): troca de tela, bateria, teclado, formatação Windows, upgrade SSD/RAM, limpeza interna com pasta térmica e recuperação de dados. Importante: para notebooks, atendimento é APENAS na nossa loja em Vila Mariana — não fazemos coleta nem retirada de notebook (apenas para impressoras corporativas)."
+          "text": "Sim. Atendemos manutenção de notebooks de várias marcas (Dell, Lenovo, HP, Acer, ASUS, Apple/MacBook, Samsung, Positivo): troca de tela, bateria, teclado, formatação Windows, upgrade SSD/RAM, limpeza interna com pasta térmica e recuperação de dados. Importante: para notebooks, atendimento é APENAS na nossa loja em Vila Mariana — não fazemos coleta nem retirada de notebook (apenas para impressoras corporativas)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Como funciona o leva-e-traz gratuito de impressora?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Para impressoras corporativas, oferecemos coleta e devolução gratuita em toda a capital de São Paulo. Após o orçamento no laboratório (em até 4 horas), devolvemos o equipamento consertado no seu endereço sem custo adicional. SLA empresarial: até 24 horas para serviços normais."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A recarga de toner ou cartucho compensa?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sim. A recarga certificada custa até 50% menos que comprar um cartucho/toner novo, sem perda de qualidade de impressão. Atendemos toners HP, Brother, Samsung, Lexmark, Xerox e cartuchos Epson, Canon, HP. Damos garantia em todas as recargas."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quanto tempo leva o conserto de notebook?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Depende do problema. Diagnóstico é feito em até 24h após você levar na loja. Serviços simples (formatação, limpeza, troca de bateria) saem em 1-2 dias úteis. Trocas de tela ou recuperação de dados podem levar 3-5 dias dependendo de peças. Todos com 90 dias de garantia."
         }
       }
     ]
@@ -268,6 +316,110 @@ gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personali
           "@type": "Service",
           "name": "Conserto de Impressora Térmica",
           "description": "Reparo de impressoras térmicas para PDV, etiquetas e cupom fiscal. Atendemos Bematech, Elgin, Daruma, Epson, Zebra."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Conserto de Plotter HP e Epson",
+          "description": "Manutenção de plotters de grande formato para arquitetura, engenharia, gráfica e CAD. Atendemos HP DesignJet, Epson SureColor e similares."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Manutenção Corporativa de Frota de Impressoras",
+          "description": "Contrato preventivo para empresas com frota de impressoras. SLA 24h, atendimento em domicílio, peças originais, garantia 90 dias. Atendemos escritórios de contabilidade, advocacia, indústria e órgãos públicos."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Conserto de Notebook Dell",
+          "description": "Reparo de notebooks Dell na nossa loja Vila Mariana — troca de tela, bateria, teclado, formatação Windows, upgrade SSD/RAM. Garantia 90 dias. Balcão-only (sem coleta)."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Conserto de Notebook Lenovo",
+          "description": "Manutenção de notebooks Lenovo: troca de tela, formatação, upgrade SSD, limpeza interna com pasta térmica. Atendimento balcão Vila Mariana, garantia 90 dias."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Conserto de Notebook HP",
+          "description": "Reparo de notebooks HP Pavilion, EliteBook, ProBook, Envy — diagnóstico gratuito, troca de tela, bateria, teclado, formatação. Garantia 90 dias."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Conserto de Notebook Acer e ASUS",
+          "description": "Manutenção especializada de notebooks Acer (Aspire, Predator) e ASUS (ZenBook, VivoBook, ROG). Troca de tela, bateria, upgrade SSD/RAM."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Conserto de MacBook (Apple)",
+          "description": "Assistência técnica de notebooks Apple MacBook Air e MacBook Pro: troca de tela, bateria, teclado, recuperação de dados. Balcão Vila Mariana."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Troca de Tela de Notebook",
+          "description": "Substituição de telas LCD/LED para notebooks de todas as marcas. Peças com 90 dias de garantia. Diagnóstico gratuito."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Recuperação de Dados de HD e SSD",
+          "description": "Recuperação de arquivos de notebooks com HD danificado, SSD não reconhecido ou erro de sistema. Tentamos antes de você perder tudo."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Formatação Windows + Instalação de Programas",
+          "description": "Formatação completa de notebook com instalação do Windows, drivers atualizados, Office, antivírus e programas essenciais. Garantia 90 dias."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Upgrade de SSD e Memória RAM",
+          "description": "Upgrade de notebook para SSD (até 4x mais rápido) e mais memória RAM. Aumenta a vida útil e performance do equipamento antigo."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Recarga de Toner e Cartucho",
+          "description": "Recarga certificada com qualidade até 50% mais barato que comprar novo. Atendemos toners HP, Brother, Samsung, Lexmark, Xerox e cartuchos Epson, Canon, HP."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Configuração de Impressora em Rede e Wi-Fi",
+          "description": "Instalação e configuração de impressoras compartilhadas em rede empresarial ou Wi-Fi doméstico. Resolução de problemas de driver e conectividade."
         }
       }
     ]
