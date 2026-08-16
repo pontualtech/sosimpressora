@@ -12,7 +12,7 @@ Impressora parou? Resolvemos hoje.
 Manutenção especializada de impressoras em toda a Grande São Paulo. Orçamento em até 4h após o equipamento no laboratório.
 
 **CTA Hero:**
-[Pedir Orçamento Grátis](https://wa.me/5511965760126?text=Olá!%20Preciso%20de%20um%20orçamento%20para%20manutenção%20de%20impressora.)
+[Pedir Orçamento Grátis](https://wa.me/551131360415?text=Olá!%20Preciso%20de%20um%20orçamento%20para%20manutenção%20de%20impressora.)
 
 **Trust Signals (badge-style):**
 - Atendimento em até 24h
@@ -33,7 +33,7 @@ Mais de 5.000 impressoras consertadas em São Paulo. Nossos clientes avaliam nos
 **Final CTA:**
 Não espere a impressora pifar de vez. Fale com a gente agora pelo WhatsApp — orçamento grátis, sem compromisso.
 
-[Chamar no WhatsApp](https://wa.me/5511965760126?text=Olá!%20Preciso%20de%20manutenção%20na%20minha%20impressora.)
+[Chamar no WhatsApp](https://wa.me/551131360415?text=Olá!%20Preciso%20de%20manutenção%20na%20minha%20impressora.)
 
 ---
 
@@ -47,28 +47,28 @@ Diagnóstico preciso e reparo rápido para impressoras de todas as marcas. Probl
 
 **Por que escolher a SOS:** Sua impressora de volta em até 24 horas. Garantia de 90 dias no reparo. Sem taxa de diagnóstico.
 
-[Solicitar conserto pelo WhatsApp](https://wa.me/5511965760126?text=Preciso%20de%20conserto%20na%20minha%20impressora.)
+[Solicitar conserto pelo WhatsApp](https://wa.me/551131360415?text=Preciso%20de%20conserto%20na%20minha%20impressora.)
 
 ### Conserto Especializado Epson
 Somos referência em manutenção de impressoras Epson em São Paulo. Da EcoTank à WorkForce Pro — temos peças e experiência para resolver qualquer problema Epson.
 
 **Por que escolher a SOS:** Técnicos com certificação Epson. Peças originais em estoque. Atendimento prioritário para empresas com frota Epson.
 
-[Conserto Epson pelo WhatsApp](https://wa.me/5511965760126?text=Preciso%20de%20conserto%20na%20minha%20impressora%20Epson.)
+[Conserto Epson pelo WhatsApp](https://wa.me/551131360415?text=Preciso%20de%20conserto%20na%20minha%20impressora%20Epson.)
 
 ### Manutenção Preventiva para Empresas
 Planos mensais de manutenção que evitam paradas e estendem a vida útil dos seus equipamentos. Ideal para escritórios, clínicas, escolas e lojas que dependem de impressão no dia a dia.
 
 **Por que escolher a SOS:** Reduza em até 60% as paradas não programadas. Visitas técnicas regulares. Prioridade no atendimento emergencial.
 
-[Conhecer planos de manutenção](https://wa.me/5511965760126?text=Quero%20saber%20sobre%20planos%20de%20manutenção%20preventiva.)
+[Conhecer planos de manutenção](https://wa.me/551131360415?text=Quero%20saber%20sobre%20planos%20de%20manutenção%20preventiva.)
 
 ### Atendimento em Domicílio
 Não precisa trazer a impressora até nós. Nosso técnico vai até sua empresa ou residência em toda a Grande São Paulo — sem taxa de deslocamento para orçamento.
 
 **Por que escolher a SOS:** Zero deslocamento para você. Conserto no local quando possível. Retirada e entrega gratuita quando necessário.
 
-[Agendar visita técnica](https://wa.me/5511965760126?text=Preciso%20de%20atendimento%20em%20domicílio%20para%20minha%20impressora.)
+[Agendar visita técnica](https://wa.me/551131360415?text=Preciso%20de%20atendimento%20em%20domicílio%20para%20minha%20impressora.)
 
 ---
 
@@ -105,7 +105,7 @@ Respondemos pelo WhatsApp em até 30 minutos durante o horário comercial. É a 
 **WhatsApp CTA:**
 Abra nossa conversa no WhatsApp — descreva o problema da impressora e receba o orçamento na hora. Sem taxa, sem compromisso.
 
-[Abrir WhatsApp](https://wa.me/5511965760126?text=Olá!%20Preciso%20de%20um%20orçamento.)
+[Abrir WhatsApp](https://wa.me/551131360415?text=Olá!%20Preciso%20de%20um%20orçamento.)
 
 **Formulário de contato:**
 - **Nome completo** (placeholder: "Seu nome")
@@ -156,7 +156,7 @@ Problemas com impressora? Antes de chamar o técnico, confira nossas dicas. E se
 ## FAQ (Homepage ou página dedicada)
 
 **Q: Quanto custa consertar uma impressora?**
-O custo depende da marca, modelo e tipo de defeito. Fazemos diagnóstico gratuito — envie uma mensagem pelo [WhatsApp](https://wa.me/5511965760126) e passamos o orçamento antes de qualquer serviço.
+O custo depende da marca, modelo e tipo de defeito. Fazemos diagnóstico gratuito — envie uma mensagem pelo [WhatsApp](https://wa.me/551131360415) e passamos o orçamento antes de qualquer serviço.
 
 **Q: Vocês atendem em domicílio?**
 Sim. Atendemos empresas e residências em São Paulo e Grande SP. O deslocamento para orçamento é gratuito.
@@ -171,7 +171,7 @@ HP, Canon, Epson, Brother, Samsung, Zebra, Lexmark e outras. Tanto impressoras j
 Sim. Todos os nossos serviços têm garantia de 90 dias. Se o mesmo problema voltar nesse período, resolvemos sem custo adicional.
 
 **Q: Como faço para pedir um orçamento?**
-Pelo [WhatsApp](https://wa.me/5511965760126) — é a forma mais rápida. Descreva o problema e respondemos pelo WhatsApp no horário comercial. Você também pode usar o formulário na página de contato.
+Pelo [WhatsApp](https://wa.me/551131360415) — é a forma mais rápida. Descreva o problema e respondemos pelo WhatsApp no horário comercial. Você também pode usar o formulário na página de contato.
 
 ---
 
@@ -184,7 +184,7 @@ Pelo [WhatsApp](https://wa.me/5511965760126) — é a forma mais rápida. Descre
   "name": "SOS Impressora",
   "description": "Manutenção e conserto de impressoras em São Paulo",
   "url": "https://www.sosimpressora.com",
-  "telephone": "+5511965760126",
+  "telephone": "+551131360415",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "São Paulo",

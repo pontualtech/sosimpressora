@@ -206,9 +206,9 @@ Sitemap: https://sosimpressora.com.br/sitemap.xml
 | Categoria principal | Serviço de manutenção de impressoras |
 | Categorias secundárias | Empresa de reparo de computadores; Serviço de TI |
 | Endereço | Informar endereço físico completo (ou marcar como "área de cobertura" se atendimento domiciliar) |
-| Telefone | (11) 96576-0126 |
+| Telefone | (11) 3136-0415 |
 | Website | https://sosimpressora.com.br |
-| WhatsApp (campo adicional) | https://wa.me/5511965760126 |
+| WhatsApp (campo adicional) | https://wa.me/551131360415 |
 
 **Horario de funcionamento:**
 - Segunda a Sexta: 08:00 – 18:00
@@ -259,7 +259,7 @@ Adicionar estes serviços em "Produtos e Serviços":
 Publicar estas perguntas (via conta Google do negócio) e respondê-las:
 
 **P1:** Vocês fazem orçamento grátis?
-**R:** Sim! O diagnóstico e orçamento são 100% gratuitos. Respondemos pelo WhatsApp: (11) 96576-0126.
+**R:** Sim! O diagnóstico e orçamento são 100% gratuitos. Respondemos pelo WhatsApp: (11) 3136-0415.
 
 **P2:** Atendem no meu bairro em São Paulo?
 **R:** Atendemos toda a Grande São Paulo — SP capital e ABC, Guarulhos, Osasco, Barueri e região. Entre em contato para confirmar sua área.
@@ -534,7 +534,7 @@ curso
 ### 3.5 Extensoes de Anúncio
 
 **Extensao de Chamada (Call Extension):**
-- Número: (11) 96576-0126
+- Número: (11) 3136-0415
 - Programação: Seg-Sex 8h-18h, Sáb 8h-13h
 - Opção: apenas chamadas (sem SMS)
 
@@ -547,7 +547,7 @@ curso
 | Texto do Sitelink | URL de Destino |
 |-------------------|----------------|
 | Nossos Serviços | /servicos.html?utm_source=google&utm_medium=cpc&utm_content=sitelink-servicos |
-| Fale pelo WhatsApp | https://wa.me/5511965760126?text=Vim%20pelo%20Google%20Ads |
+| Fale pelo WhatsApp | https://wa.me/551131360415?text=Vim%20pelo%20Google%20Ads |
 | Sobre a SOS Impressora | /sobre.html?utm_source=google&utm_medium=cpc&utm_content=sitelink-sobre |
 | Agendar Visita Técnica | /contato.html?utm_source=google&utm_medium=cpc&utm_content=sitelink-contato |
 
@@ -590,7 +590,7 @@ Serviços (empresas):
 https://sosimpressora.com.br/servicos.html?utm_source=google&utm_medium=cpc&utm_campaign=search-empresas
 
 WhatsApp (conversão direta):
-https://wa.me/5511965760126?text=Vim%20pelo%20Google%20Ads%20-%20Preciso%20de%20or%C3%A7amento
+https://wa.me/551131360415?text=Vim%20pelo%20Google%20Ads%20-%20Preciso%20de%20or%C3%A7amento
 ```
 
 **Conversoes a configurar no Google Ads:**

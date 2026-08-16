@@ -196,7 +196,7 @@ Example: "Conserto de Impressora HP - São Paulo - Atendimento Presencial"
 **No broken internal links detected (HTTP 200 on all discovered URLs).**
 
 External link validation:
-- ✓ WhatsApp integration: https://wa.me/5511965760126 (Working)
+- ✓ WhatsApp integration: https://wa.me/551131360415 (Working)
 - ✓ Social links in footer: Facebook, Twitter/X, LinkedIn (Working, though Wix-branded)
 - ⚠️ Form submission endpoint: `/contact` - Verify after migration
 
@@ -315,7 +315,7 @@ External link validation:
   "name": "SOS Impressora",
   "image": "logo.png",
   "description": "Assistência Técnica Profissional de Impressoras",
-  "telephone": "+5511965760126",
+  "telephone": "+551131360415",
   "address": "São Paulo, SP, Brasil",
   "areaServed": "São Paulo",
   "serviceType": "Printer Repair"
