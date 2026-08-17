@@ -8,7 +8,7 @@ SOS Impressora é uma assistência técnica especializada em conserto de impress
 
 - [Conserto de Impressora](https://sosimpressora.com/servicos.html): Diagnóstico e reparo de jato de tinta, laser, multifuncionais e matriciais
 - [Manutenção Preventiva](https://sosimpressora.com/servicos.html): Limpeza interna, troca de peças desgastadas, calibração
-- [Conserto Impressora Epson](https://sosimpressora.com/servicos.html#epson): Especialistas em modelos L3110, L3150, L3250, L4150, L4260, L4350
+- [Conserto Impressora Epson](https://sosimpressora.com/servicos.html#conserto-epson): Especialistas em modelos L3110, L3150, L3250, L4150, L4260, L4350
 - [Conserto Impressora HP](https://sosimpressora.com/servicos.html): DeskJet, OfficeJet, LaserJet, Smart Tank
 - [Conserto Impressora Brother](https://sosimpressora.com/servicos.html): DCP, MFC, HL, modelos jato e laser
 - [Atendimento em Domicílio](https://sosimpressora.com/contato.html): Coleta gratuita em São Paulo capital
@@ -21,7 +21,7 @@ SOS Impressora é uma assistência técnica especializada em conserto de impress
 ## Contato
 
 - WhatsApp: +55 (11) 3136-0415
-- Atendimento: Segunda a sexta, 9h às 18h
+- Atendimento: Segunda a quinta, 8h às 18h; sexta, 8h às 17h. Sábado fechado.
 - Cobertura: Grande São Paulo
 - [Solicitar orçamento](https://sosimpressora.com/contato.html)
 
